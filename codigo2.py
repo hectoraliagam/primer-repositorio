@@ -1,4 +1,6 @@
-nombre = "zzz"
+nombre = "elmascapito"
 print(nombre)
-name = input(f"Dame tu nombre {nombre}: ")
-print(f"ashaaa vos te llamas {name}")
+name = input(f"pasa tu nombre real {nombre}: ")
+print(f"tu nombre real es {name}, supongo")
+print("hize otro de nuevo :,v")
+#nuevo commit1
